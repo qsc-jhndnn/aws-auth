@@ -18,7 +18,7 @@ Example of signing message for use with SES email service
 
 
 ```
-aws = require("awsauth")
+aws = require("aws_auth")
 
 local destination = "to@foo.com"
 local source = "from@bar.com"
